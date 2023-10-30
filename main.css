@@ -32,11 +32,11 @@ h1>strong {
 }
 
 h1.titulo-font {
-    font-size: 20px;
+    font-size: 14px;
 }
 
 
-.titulo-font {
+.titulo-font {  
     font-family: 'Libre Baskerville', serif;
     font-size: 28px;
     color:  #198754;
@@ -142,10 +142,6 @@ h1.titulo-font {
         margin-bottom: 45px;
     }
 
-    h1>strong {
-        font-size: 28px;
-    }
-
     h1.titulo-font {
         font-size: 20px;
     }
@@ -153,6 +149,14 @@ h1.titulo-font {
     h2.titulo-font {
         font-size: 20px;
         
+    }
+
+    h1>strong {
+        font-size: 28px;
+    }
+    
+    h1.titulo-font {
+        font-size: 14px;
     }
 
     .imgSrv {
