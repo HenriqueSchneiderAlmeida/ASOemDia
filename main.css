@@ -134,11 +134,12 @@ h1.titulo-font {
     }
 
     h1.titulo-font {
-        font-size: 12px;
+        font-size: 20px;
     }
 
     h2.titulo-font {
-        font-size: 18px;
+        font-size: 20px;
+        
     }
 
     .imgSrv {
