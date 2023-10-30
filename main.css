@@ -27,6 +27,15 @@ h1.titulo-font {
     color: #fff;
 }
 
+h1>strong {
+    font-size: 28px;
+}
+
+h1.titulo-font {
+    font-size: 20px;
+}
+
+
 .titulo-font {
     font-family: 'Libre Baskerville', serif;
     font-size: 28px;
@@ -131,6 +140,10 @@ h1.titulo-font {
     }
     .botaoSrv {
         margin-bottom: 45px;
+    }
+
+    h1>strong {
+        font-size: 28px;
     }
 
     h1.titulo-font {
