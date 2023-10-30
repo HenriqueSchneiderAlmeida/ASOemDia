@@ -23,6 +23,10 @@ body {
     color: #fff;
 }
 
+h1.titulo-font {
+    color: #fff;
+}
+
 .titulo-font {
     font-family: 'Libre Baskerville', serif;
     font-size: 28px;
@@ -129,12 +133,20 @@ body {
         margin-bottom: 45px;
     }
 
+    h1.titulo-font {
+        font-size: 12px;
+    }
+
+    h2.titulo-font {
+        font-size: 18px;
+    }
+
     .imgSrv {
         height: 40%;    
     }  
 
     .divSrv {
-        height: 650px;
+        height: 450px;
     }
 
     
@@ -169,6 +181,10 @@ body {
     .col-md-3 > img {
         width: 100%;
         padding-top: 10px;
+    }
+
+    .titulo-font {
+        font-size: 10px;
     }
     
 }
